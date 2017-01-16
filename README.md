@@ -1,7 +1,8 @@
 ## local storage cart
 simple cart using HTML5 local storage
 ## Installation
-you can call this file and pass the cart items like the following you can pass any type of json objects and in any sort you like but you have to modify update cart function 
+you can call this file and pass the cart items as mentioned in the Usage section also you can pass any type of json objects in any sorting type but you have to modify update cart function 
+the currnet sorting is {ID,PRICE,QUANTITY,TYPE}
 ## Usage
 var product = {};
  
